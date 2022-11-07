@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/home/cultureid_user0/game_desktop_launchers/icons/752666.svg
+Exec=/home/cultureid_user0/game_desktop_launchers/tif_game_b.sh
+Name[en_US]=tif_game_b
+Name=game b
+Icon=/home/cultureid_user0/game_desktop_launchers/icons/752666.svg
