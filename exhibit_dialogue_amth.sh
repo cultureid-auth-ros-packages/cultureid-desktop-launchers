@@ -11,7 +11,7 @@ sleep 10
 rosrun rviz rviz &
 sleep 1
 
-#roslaunch cultureid_devel avanti_live.launch map_file:=amth_games &
+#roslaunch cultureid_devel avanti_live.launch map_file:=amth &
 roslaunch cultureid_devel avanti_live.launch map_file:=amth_offices_wunknown &
 sleep 40
 
@@ -39,4 +39,4 @@ sleep 40
 ################################################################################
 
 
-roslaunch cultureid_games_N avanti_games.launch &
+roslaunch cultureid_exhibit_dialogue avanti_dialogue.launch &

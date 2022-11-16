@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/home/cultureid_user0/game_desktop_launchers/icons/752671.svg
+Exec=/home/cultureid_user0/game_desktop_launchers/exhibit_dialogue_amth.sh
+Name[en_US]=exhibit_dialogue_amth
+Name=exhibit_dialogue_amth
+Icon=/home/cultureid_user0/game_desktop_launchers/icons/752671.svg
