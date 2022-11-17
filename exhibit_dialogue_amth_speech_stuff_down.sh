@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pkill -f docker-compose &
-pkill -f send_node &
+docker kill $(docker ps -q)
+pkill -f send_node
